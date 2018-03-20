@@ -8,3 +8,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC154455/
 
 List of Potential Drug Targets:
 https://pubs.acs.org/doi/abs/10.1021/pr100918u
+
+Mechanisms of antimicrobial resistance in bacteria:
+https://www.sciencedirect.com/science/article/pii/S0196655306008364
