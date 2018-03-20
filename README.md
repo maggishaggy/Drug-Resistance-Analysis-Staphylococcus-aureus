@@ -17,3 +17,6 @@ Efflux Pumps in SA:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2981259/
 https://www.ncbi.nlm.nih.gov/pubmed/18723624/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3617543/ **
+
+Modification and Protection of Targets
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC389059/
