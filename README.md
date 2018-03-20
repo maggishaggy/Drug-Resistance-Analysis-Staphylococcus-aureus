@@ -11,3 +11,4 @@ https://pubs.acs.org/doi/abs/10.1021/pr100918u
 
 Mechanisms of antimicrobial resistance in bacteria:
 https://www.sciencedirect.com/science/article/pii/S0196655306008364
+https://www.nature.com/articles/nrmicro3380
