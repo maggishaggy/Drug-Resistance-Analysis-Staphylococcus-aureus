@@ -23,3 +23,6 @@ Modification and Protection of Targets
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC389059/
 
 rRNA methyltransferases and resistance: https://www.degruyter.com/downloadpdf/j/jomb.2010.29.issue-3/v10011-010-0030-y/v10011-010-0030-y.pdf
+
+Resistance by Enzymatic Degradation
+https://www.sciencedirect.com/science/article/pii/S0169409X05000980?via%3Dihub#bib21
