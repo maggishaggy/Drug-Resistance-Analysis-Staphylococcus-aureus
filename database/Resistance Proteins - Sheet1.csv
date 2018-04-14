@@ -1,0 +1,70 @@
+STRING ID,Resistance Protein Name,,Mechanism,Source
+,,,,
+93062.SACOL0346,"Prophage L54a, N-6-adenine-methyltransferase",BLAST_UniProt_DE,Modification of Target,
+93062.SACOL1230,23S rRNA m2A2503 methyltransferase,BLAST_UniProt_DE,Modification of Target,
+93062.SACOL0754,norA,BLAST_UniProt_GN RefSeq ncbi.nlm.nih.gov,Efflux,
+93062.SACOL1475,norB,BLAST_UniProt_GN,Efflux,
+93062.SACOL0405,mepA,BLAST_KEGG_NAME BLAST_UniProt_GN,Efflux,
+?,MdeA,?,Efflux,
+93062.SACOL2158,sepA,BLAST_KEGG_NAME BLAST_UniProt_GN,Efflux,
+?,LmrS,?,Efflux,
+93062.SACOL2157,"Drug resistance transporter, EmrB/QacA subfamily",BLAST_UniProt_DE,Efflux,
+93062.SACOL2347,"Drug resistance transporter, EmrB/QacA subfamily",BLAST_UniProt_DE,Efflux,
+93062.SACOL2413,"Drug resistance transporter, EmrB/QacA subfamily",BLAST_UniProt_DE,Efflux,
+?,smr,?,Efflux,
+93062.SACOL0086,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL0103,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL0163,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL0261,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL1809,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL2159,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL2257,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL2348,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL2449,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL2460,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL2523,"Drug transporter, putative",BLAST_UniProt_DE,Efflux,
+93062.SACOL0746,HTH-type transcriptional regulator MgrA,BLAST_UniProt_DE,Efflux Pump Regulator,
+93062.SACOL0091,HTH-type transcriptional regulator NorG,BLAST_UniProt_DE,Efflux Pump Regulator,
+93062.SACOL1689,relA,BLAST_KEGG_NAME,Sringent Response Activator,
+93062.SACOL1003,Adapter protein MecA,BLAST_UniProt_DE,Modification of Target,
+93062.SACOL1490,pbp2,BLAST_UniProt_GN RefSeq ncbi.nlm.nih.gov,Modification of Target,
+93062.SACOL0531,16S rRNA 2'-O-ribose C1402 methyltransferase,BLAST_UniProt_DE,Modification of Target,
+93062.SACOL0536,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase,BLAST_UniProt_DE,Modification of Target,
+93062.SACOL1192,16S rRNA m(4)C1402 methyltransferase,BLAST_UniProt_DE,Modification of Target,
+93062.SACOL2736,16S rRNA 7-methylguanosine methyltransferase,BLAST_UniProt_DE,Modification of Target,
+?,cfr,?,Modification of Target,https://academic.oup.com/jac/article/68/8/1697/865908
+93062.SACOL1396,mprF,BLAST_KEGG_NAME BLAST_UniProt_GN,Modification of Target,
+93062.SACOL0023,Metallo-beta-lactamase family protein YycJ,BLAST_UniProt_DE,Modification of antibiotic,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC268732/
+93062.SACOL0064,Metallo-beta-lactamase family protein,BLAST_UniProt_DE,Modification of antibiotic,
+93062.SACOL1602,Metallo-beta-lactamase family protein,BLAST_UniProt_DE,Modification of antibiotic,
+93062.SACOL1797,Metallo-beta-lactamase family protein,BLAST_UniProt_DE,Modification of antibiotic,
+93062.SACOL1397,msrA,BLAST_UniProt_GN RefSeq ncbi.nlm.nih.gov,Efflux,http://aac.asm.org/content/43/5/1062.full
+93062.SACOL0046,Metallo-beta-lactamase family protein,BLAST_UniProt_DE,,
+,,,,
+93062.SACOL2239,rplC,BLAST_KEGG_NAME BLAST_UniProt_GN RefSeq ncbi.nlm.nih.gov,Modification of Target,http://aac.asm.org/content/53/12/5265.full
+93062.SACOL2238,rplD,BLAST_KEGG_NAME BLAST_UniProt_GN RefSeq ncbi.nlm.nih.gov,Modification of Target,http://aac.asm.org/content/53/12/5265.full
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+93062.SACOL1265,Endopeptidase resistance protein,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL2437,Bicyclomycin resistance protein,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL0743,Bacitracin resistance protein,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+,,,,
+93062.SACOL1410,Factor essential for expression of methicillin resistance A,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL1411,Factor essential for expression of methicillin resistance B,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL2253,Factor essential for expression of methicillin resistance X,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL2326,Fosfomycin resistance protein,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL0716,Glycopeptide resistance-associated protein R,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL0717,Glycopeptide resistance-associated protein S,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL2328,Lysostaphin resistance protein A,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL0034,Methicillin-resistance MecR1 regulatory protein,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL0872,Organic hydroperoxide resistance protein-like,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SAA0002,Tetracycline resistance protein,BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+93062.SACOL0122,"Tetracycline resistance protein, putative",BLAST_UniProt_DE,Check,Search 'resistance' in alias list
+,,,,
+93062.SACOL0716,Glycopeptide resistance-associated protein R,BLAST_UniProt_DE,Check,Search 'resistance-' in alias list
+93062.SACOL0717,Glycopeptide resistance-associated protein S,BLAST_UniProt_DE,Check,Search 'resistance-' in alias list
+,,,,
+93062.SACOL1472,ebh,BLAST_KEGG_NAME BLAST_UniProt_GN RefSeq ncbi.nlm.nih.gov,,http://jb.asm.org/content/196/5/971.full
